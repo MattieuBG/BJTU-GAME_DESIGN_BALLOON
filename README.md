@@ -19,16 +19,16 @@ The purpose of the game is to hit the maximum of balloon in the limited time or 
 
 ##Game features
 
-- A menu will be available
-- Highscore will be display in the menu
-- There will be animation and sprites such as cloud, ballon, movement, explosion ...
-- There will be sounds too such as explosion, times up, game ambiance ... 
-- X type of balloon
-- X type of effect of this balloon (bomb ballon = -3pts, star ballon = +5 pts)
-- An in game menu will be also available where you can see your current score, highscore and restart
+- A menu is available
+- Highscore is in the menu while swipping with a level
+- There is sprite such as cloud, ballon, movement, explosion ...
+- There is sounds such as explosion, times up, game ambiance ... 
+- 6 type of balloon
+- 3 type of effect of this balloon (bomb ballon = -3pts, star ballon = +5 pts, casual ballon + 1pts)
+- An in game menu is available where you can see your current score, highscore and restart
 - 5 level of difficulty (choosable in the menu)
 - When the game is finish you can go back to the menu or you can replay by clicking the balloon the screen
 
 ##Game world 
 
-- There will be only 1 world in 3 mods, the world should be sky with clouds.
+- There is only 1 world in 2 mods, the world should be sky with clouds.
